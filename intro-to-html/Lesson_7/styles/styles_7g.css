@@ -1,0 +1,26 @@
+.pp {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 40px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.tweet {
+  border: none;
+  font-size: 20px;
+  vertical-align: middle;
+}
+
+.tweet-button {
+  color: white;
+  background-color: rgb(111, 234, 253);
+  border: none;
+  font-size: 18px;
+  padding: 10px 25px;
+  border-radius: 50px;
+  vertical-align: middle;
+  font-weight: bold;
+  cursor: pointer;
+}

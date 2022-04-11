@@ -1,0 +1,35 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.email-text {
+  color: gray;
+  margin-bottom: 8px
+}
+
+.textbox {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 400px;
+  border-radius: 3.5px;
+  border-style: solid;
+  border-width: 1.8px;
+  margin-bottom: 15px;
+}
+
+.text {
+  color: gray;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 30px;
+  width: 400px;
+}
